@@ -3,10 +3,10 @@
 a = int(input())
 b = int(input())
 
-sumN = (a + b)
-diffN = (a - b)
-multN = (a * b)
+sum_ab = (a + b)
+difference_ab = (a - b)
+multiply_ab = (a * b)
 
-print(sumN)
-print(diffN)
-print(multN)
+print(sum_ab)
+print(difference_ab)
+print(multiply_ab)
