@@ -3,4 +3,4 @@
 
 Solving Python HackerRank problems
 
-Python for beggginers :D
+Python for beginners :D
